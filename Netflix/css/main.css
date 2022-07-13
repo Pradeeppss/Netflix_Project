@@ -46,3 +46,6 @@
 .small-sections{
     height: 29rem;
 }
+.sm-font{
+    font-size: smaller;
+}
